@@ -1,0 +1,28 @@
+.header-of-main-page{
+	text-align: right;
+	height: auto;
+	padding: 20px 0;
+}
+.header-of-main-page a{	
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000;
+	padding: 15px;
+	border: #000 2px solid;
+	border-radius: 4px;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 15px;
+	
+}
+.header-of-main-page a:visited,
+.header-of-main-page a:hover,
+.header-of-main-page a:link,
+.header-of-main-page a:active{
+	color: #000; }
+
+ body
+{
+
+	background: rgb(50, 50, 50)
+}
